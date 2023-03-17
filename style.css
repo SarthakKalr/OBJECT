@@ -1,0 +1,13 @@
+.btn{
+    border-radius: 100px;
+    border: solid 2px black;
+    width: 200px;
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    font-family: comic;
+    font-weight: bolder;
+
+}
+body{
+    background-size: cover;
+}
